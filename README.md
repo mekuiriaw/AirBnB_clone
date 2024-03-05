@@ -67,4 +67,4 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 ## Authors
 * **Mekuriaw Menebru* - [mekuriawmenberu44@gmail.com]([https://github.com/mekuiriaw]         
-* **** - 
+* **Seyfemichael Teklemariam Mamecha* -  [welcomesmtm@gmail.com].[https://github.com/SEYFEMICHAEL]
