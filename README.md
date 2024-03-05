@@ -66,5 +66,5 @@ The test for the classes are in the [test_models](./tests/test_models/) folder.
 
 
 ## Authors
-* **Dawit Aklilu** - [dawa.dejene@gmail.com](https://github.com/Dave-dawa)            
-* **Abrham Taye** - [abrhamtayetessfaye@gmail.com](https://github.com/Abrhamtaye7)
+* **Mekuriaw Menebru* - [mekuriawmenberu44@gmail.com]([https://github.com/mekuiriaw]         
+* **** - 
